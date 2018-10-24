@@ -293,6 +293,31 @@ a:hover {
 }
 
 
+.app-wrapper[data-v-fe724ee6] {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+.app-wrapper[data-v-fe724ee6]:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.app-wrapper.mobile.openSidebar[data-v-fe724ee6] {
+    position: fixed;
+    top: 0;
+}
+.drawer-bg[data-v-fe724ee6] {
+  background: #000;
+  opacity: 0.3;
+  width: 100%;
+  top: 0;
+  height: 100%;
+  position: absolute;
+  z-index: 999;
+}
+
+
 .svg-icon[data-v-2f0f1ae2] {
   width: 1em;
   height: 1em;

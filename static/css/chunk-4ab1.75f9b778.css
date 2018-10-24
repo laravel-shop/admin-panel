@@ -25,13 +25,13 @@
 }
 
 
-.login-container[data-v-f7477466] {
+.login-container[data-v-2b76be0d] {
   position: fixed;
   height: 100%;
   width: 100%;
   background-color: #2d3a4b;
 }
-.login-container .login-form[data-v-f7477466] {
+.login-container .login-form[data-v-2b76be0d] {
     position: absolute;
     left: 0;
     right: 0;
@@ -40,22 +40,22 @@
     padding: 35px 35px 15px 35px;
     margin: 120px auto;
 }
-.login-container .tips[data-v-f7477466] {
+.login-container .tips[data-v-2b76be0d] {
     font-size: 14px;
     color: #fff;
     margin-bottom: 10px;
 }
-.login-container .tips span[data-v-f7477466]:first-of-type {
+.login-container .tips span[data-v-2b76be0d]:first-of-type {
       margin-right: 16px;
 }
-.login-container .svg-container[data-v-f7477466] {
+.login-container .svg-container[data-v-2b76be0d] {
     padding: 6px 5px 6px 15px;
     color: #889aa4;
     vertical-align: middle;
     width: 30px;
     display: inline-block;
 }
-.login-container .title[data-v-f7477466] {
+.login-container .title[data-v-2b76be0d] {
     font-size: 26px;
     font-weight: 400;
     color: #eee;
@@ -63,7 +63,7 @@
     text-align: center;
     font-weight: bold;
 }
-.login-container .show-pwd[data-v-f7477466] {
+.login-container .show-pwd[data-v-2b76be0d] {
     position: absolute;
     right: 10px;
     top: 7px;
